@@ -34,6 +34,27 @@ const movies = [
     rating: 4.2,
     imagePath: 'images/Resident_Evil_Vendetta.jpg',
   },
+  {
+    title: 'The Hunger Games',
+    subtitle: 'Catching Fire',
+    storyline: 'The Hunger Games: Catching Fire begins as Katniss Everdeen returns home safe after winning the 74th Annual Hunger Games along with fellow tribute Peeta Mellark.',
+    rating: 4.8,
+    imagePath: 'https://www.jornadageek.com.br/wp-content/uploads/2020/08/Jogos-Vorazes-Em-Chamas.jpg',
+  },
+  {
+    title: 'Love, Simon',
+    subtitle: 'Love, Simon',
+    storyline: "Simon Spier keeps a huge secret from his family, his friends and all of his classmates: he's gay. When that secret is threatened, Simon must face everyone and come to terms with his identity.",
+    rating: 4.5,
+    imagePath: 'https://loggado.com/wp-content/uploads/2018/04/com-amor-simon1.jpg',
+  },
+  {
+    title: 'Jurassic World',
+    subtitle: 'Jurassic World',
+    storyline: 'A new theme park, built on the original site of Jurassic Park, creates a genetically modified hybrid dinosaur, the Indominus Rex, which escapes containment and goes on a killing spree.',
+    rating: 4.7,
+    imagePath: 'https://i1.wp.com/hipertextual.com/wp-content/uploads/2020/08/hipertextual-2020299308.jpg?fit=1200%2C600&ssl=1&resize=350%2C200',
+  },
 ];
 
 export default movies;

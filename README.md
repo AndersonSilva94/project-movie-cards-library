@@ -35,6 +35,20 @@
 
 - Utilizando **PropTypes** para garantir que uma prop é um array com elementos de um determinado tipo.
 
+## Instruções para clonar o projeto
+
+1. Clone o repositório
+  * `git clone git@github.com:AndersonSilva94/project-movie-cards-library-stateful.git`.
+  * Entre na pasta do repositório que você acabou de clonar:
+    * `project-movie-cards-library-stateful`
+
+2. Instale as dependências, inicialize o projeto e rode os testes
+  * Instale as dependências:
+    * `npm install`
+  * Inicialize o projeto:
+    * `npm start` (uma nova página deve abrir no seu navegador com a página do projeto)
+  * Você pode verificar que os testes estão executando:
+    * `npm test`
 
 ## Requisitos
 

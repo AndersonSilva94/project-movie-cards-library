@@ -38,9 +38,9 @@
 ## Instruções para clonar o projeto
 
 1. Clone o repositório
-  * `git clone git@github.com:AndersonSilva94/project-movie-cards-library-stateful.git`.
+  * `git clone git@github.com:AndersonSilva94/project-movie-cards-library.git`.
   * Entre na pasta do repositório que você acabou de clonar:
-    * `project-movie-cards-library-stateful`
+    * `project-movie-cards-library`
 
 2. Instale as dependências, inicialize o projeto e rode os testes
   * Instale as dependências:
